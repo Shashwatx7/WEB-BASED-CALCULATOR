@@ -57,3 +57,4 @@ buttons.forEach(button => {
 window.onload = function() {
     renderHistory();
 };
+ 
